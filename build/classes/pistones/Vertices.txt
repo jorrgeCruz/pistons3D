@@ -1,0 +1,42 @@
+﻿
+	Vertices	-> 	Objeto
+
+	001 - 100	-> 	Cabeza 1
+	101 - 130	->	Muñequilla 1
+	131 - 180	->	Brazo derecho 1
+	181 - 230	->	Brazo izquierdo 1
+	231 - 250	->	Eje (inicio)
+	251 - 270	->	Eje (continuidad)
+	271 - 278	->	Biela 1
+	279 - 282	->	Hoja vertical (fondo)
+	283 - 286	->	Hoja horizontal (fondo)
+
+	291 - 298	->	Biela 2
+	301 - 400	->	Cabeza 2
+	401 - 430	->	Muñequilla 2
+	431 - 480	->	Brazo derecho 2
+	481 - 530	->	Brazo izquierdo 2
+	531 - 550	->	Eje
+
+	551 - 650	->	Cabeza 3
+	651 - 680	->	Muñequilla 3
+	681 - 730	->	Brazo derecho 3
+	731 - 780	->	Brazo izquierdo 3
+	781 - 800	->	Eje
+	801 - 808	->	Biela 3
+
+	809 - 816	->	Biela 4
+	821 - 920	->	Cabeza 4
+	921 - 950	->	Muñequilla 4
+	951 - 1000	->	Brazo derecho 4
+	1001 - 1050	->	Brazo izquierdo 4
+	1051 - 1070	->	Eje
+
+
+	Caras       ->  Objeto
+
+        000 - 152   ->  piston 1
+        153 - 156   ->  fondo
+        157 - 297   ->  piston 2
+        298 - 438   ->  piston 3
+        439 - 579   ->  piston 4
